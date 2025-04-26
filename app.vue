@@ -32,7 +32,7 @@
           <div class="space-y-8">
             <h1 class="text-5xl md:text-7xl font-extrabold leading-tight">
               <span class="block text-white">Type-Safe APIs.</span>
-              <span class="block mt-2 bg-clip-text text-transparent bg-gradient-to-r from-cyan-400 to-blue-500">
+              <span class="block mt-2 bg-clip-text text-transparent bg-gradient-to-r from-cyan-400 to-blue-500 pb-4">
                 Any Language.
               </span>
             </h1>
